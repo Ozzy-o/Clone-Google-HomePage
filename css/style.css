@@ -5,7 +5,7 @@ body {
 
 .ustbar {
     float: right;
-    margin-bottom: 8px;
+    margin-bottom: 15px;
     
 }
 
@@ -32,8 +32,8 @@ a:active {
 
 .logo {
     clear: both;
-    margin-top: 50px;
-    margin-left: 539px;
+    margin-top: 45px;
+    margin-left: 545px;
     
 }
 .cubuk {
@@ -43,7 +43,7 @@ a:active {
     border-radius: 25px;
     height: 45px;
     width: 577px;
-    margin-left: 383px;
+    margin-left: 393px;
     margin-top: 22px;
     
 }
@@ -102,5 +102,5 @@ a:active {
     width: 1355px;
     /* font-family: Arial, Helvetica, sans-serif; */
     color: #5f6368;
-    height: 45px;
+    height: 35px;
 }
